@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ body {
+  background-color: rgb(244, 244, 244);
+  text-align: center;
+  font-size:10px ;
+  font-size: 62.5%;
+
+ }
+ 
+button{
+  background-color: cornflowerblue;
+  color: azure;
+  width: 10.0rem;
+  border-radius: 4rem;
+  padding: 1.0rem;
+  cursor: pointer;
+  margin-right: 30px;
+  
+}
+
+footer{
+  font-size: 2.0rem;
+  padding: 1.0rem;
+ 
+}
+h1{
+  padding: 1.0rem;
+}
+h3{
+  font-size: 1.5rem;
+}
+h2 {
+  font-size: 2.0rem;
+  padding: 1.0rem;
+   
+}
+p{
+  font-size: 2.0rem;
+  padding: 1.0rem;
+}
+
+ 
